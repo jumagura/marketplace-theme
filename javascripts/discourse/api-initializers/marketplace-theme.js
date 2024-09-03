@@ -15,5 +15,16 @@ export default apiInitializer("1.8.0", (api) => {
         element.textContent = "Author";
       }
     });
+    window.addEventListener("scroll", function () {
+      const header = document.querySelector(".d-header");
+      const scrollPosition = window.scrollY;
+
+      if (scrollPosition > 50) {
+        // Adjust the value as needed
+        header.classList.add("scrolled");
+      } else {
+        header.classList.remove("scrolled");
+      }
+    });
   });
 });
