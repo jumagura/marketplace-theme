@@ -23,6 +23,7 @@
     "https://github.com/discourse/Discourse-easy-footer.git",
     "https://github.com/naidihr/discourse-category-headers.git",
     "https://github.com/discourse/discourse-category-icons.git",
-    "https://github.com/discourse/discourse-topic-thumbnails.git"
+    "https://github.com/discourse/discourse-topic-thumbnails.git",
+    "https://github.com/discourse/discourse-search-banner.git"
   ]
 }
