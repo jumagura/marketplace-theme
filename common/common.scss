@@ -312,6 +312,10 @@ img.avatar {
 
 /* TOPIC LIST*/
 .topic-list {
+  td.posters>a:not(:first-child) {
+    display: none;
+  }
+
   .posters.topic-list-data {
     text-transform: capitalize;
   }
