@@ -1,0 +1,22 @@
+#navigation-bar {
+  border-bottom: 1px solid #838383;
+  width: 100%;
+}
+
+.topic-list-body {
+  .title {
+    color: #fff;
+    font-family: 'DM Sans';
+  }
+}
+
+.topic-list .topic-list-data,
+.topic-list .num .badge-posts,
+.topic-list .num .post-activity,
+.topic-list .num .number {
+  font-family: 'DM Sans';
+}
+
+.topic-list .num .badge-posts {
+  color: var(--tertiary)
+}

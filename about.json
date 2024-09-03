@@ -1,0 +1,22 @@
+{
+  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
+  "license_url": "TODO: Put your theme's LICENSE URL here",
+  "assets": {},
+  "name": "marketplace-theme",
+  "color_schemes": {
+    "Marketplace Dark": {
+      "primary": "ffffff",
+      "secondary": "000000",
+      "tertiary": "fe7a15",
+      "quaternary": "62c6af",
+      "header_background": "111111",
+      "header_primary": "ffffff",
+      "highlight": "8e5572",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "fa6c8d",
+      "selected": "CB5901",
+      "hover": "313131"
+    }
+  }
+}
