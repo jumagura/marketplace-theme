@@ -148,3 +148,14 @@
     border-radius: 0;
   }
 }
+
+.custom-search-banner-wrap {
+  height: 250px;
+
+  h1,
+  p,
+  .search-menu {
+
+    display: none;
+  }
+}
