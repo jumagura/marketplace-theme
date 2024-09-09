@@ -167,6 +167,7 @@ body {
 
   .subcategories {
     display: flex;
+    flex-wrap: wrap;
 
     .badge-category__name {
       text-transform: capitalize;
